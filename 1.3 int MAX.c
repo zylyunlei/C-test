@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int max(int x, int y); // Function prototype for max
     int a,b,c;
